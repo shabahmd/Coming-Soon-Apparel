@@ -38,3 +38,18 @@
     font-weight: 400;
     color: hsl(0, 36%, 70%);
 }
+
+.my-form {
+    margin-top: 5%;
+    position: absolute;
+    z-index: 1;
+    width: 800px;
+}
+
+input#email {
+    border-radius: 53px;
+    width: 500px;
+    height: 50px;
+    font-size: 16px;
+}
+
